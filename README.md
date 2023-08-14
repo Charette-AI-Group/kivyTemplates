@@ -1,2 +1,2 @@
 # kivyTemplates
-Repo for various Kivy Graphical User Interface (GUI) templates. 
+Repo for various Kivy Graphical User Interface (GUI) templates.
